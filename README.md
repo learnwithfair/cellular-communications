@@ -1,6 +1,6 @@
 Thanks for visiting my GitHub account!
 
-<p align="center"><img src="https://github.com/learnwithfair/cellular-communications/tree/main/screenshot/info.jpg" width="400" height="250" alt="Cellular"></p>
+<p align="center"><img src="https://github.com/learnwithfair/cellular-communications/blob/main/screenshot/info.jpg" width="400" height="250" alt="Cellular"></p>
 
 ## About Cellular and Mobile Communication
 
@@ -21,7 +21,7 @@ Thanks for visiting my GitHub account!
 |   |   |
 |:---:|:---:|
 |List-1|List-2|
-|![1](https://github.com/learnwithfair/cellular-communications/tree/main/screenshot/1.jpg)|![2](https://github.com/learnwithfair/cellular-communications/tree/main/screenshot/2.jpg)|
+|![1](https://github.com/learnwithfair/cellular-communications/blob/main/screenshot/1.jpg)|![2](https://github.com/learnwithfair/cellular-communications/blob/main/screenshot/2.jpg)|
 
 ## Erlang B Table
-![table](https://github.com/learnwithfair/cellular-communications/tree/main/screenshot/table.png)
+![table](https://github.com/learnwithfair/cellular-communications/blob/main/screenshot/table.png)
